@@ -1,2 +1,3 @@
 this is wificat
-test online change data
+using wifi chat in the internet 
+support wifi direct 
